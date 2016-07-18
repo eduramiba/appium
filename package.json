@@ -1,6 +1,6 @@
 {
-  "name": "appium",
-  "description": "Automation for Apps.",
+  "name": "appium-crosswalk",
+  "description": "Automation for Apps. Patched for Crosswalk Support.",
   "tags": [
     "automation",
     "javascript",
@@ -12,14 +12,14 @@
     "testing"
   ],
   "version": "1.5.3",
-  "author": "https://github.com/appium",
+  "author": "https://github.com/eduramiba/appium",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/appium/appium.git"
+    "url": "https://github.com/eduramiba/appium"
   },
   "bugs": {
-    "url": "https://github.com/appium/appium/issues"
+    "url": "https://github.com/eduramiba/appium/issues"
   },
   "engines": {
     "node": ">=0.12",
