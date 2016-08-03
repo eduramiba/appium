@@ -1,6 +1,6 @@
 ## Appium with support for Crosswalk
 
-This is a Appium fork based on version 1.5.3 with a custom [appium-android-driver](https://github.com/eduramiba/appium-android-driver/tree/1.5.crosswalk) that is able to connect to Crosswalk applications using the [https://github.com/crosswalk-project/crosswalk-web-driver/tree/xwalkdriver_for_crosswalk_16/bin](crosswalk webdriver) as chrome driver executable.
+This is a Appium fork based on version 1.5.3 with a custom [appium-android-driver](https://github.com/eduramiba/appium-android-driver/tree/1.5.crosswalk) that is able to connect to Crosswalk applications using the [crosswalk webdriver](https://github.com/crosswalk-project/crosswalk-web-driver/tree/xwalkdriver_for_crosswalk_16/bin) as chrome driver executable.
 
 Package available at https://www.npmjs.com/package/appium-crosswalk
 
